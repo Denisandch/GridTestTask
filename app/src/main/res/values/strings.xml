@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GridTestTask</string>
+
+    <string name="participant">Участник %d</string>
+    <string name="point_sum">Сумма очков</string>
+    <string name="place">Место</string>
+    <string name="incorrect_input">Некорректный ввод</string>
+
+</resources>
